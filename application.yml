@@ -1,1 +1,16 @@
 father.name= lakshmana rao
+
+---
+spring:
+  profile: dev
+student:
+  name: ritu
+  gender: female
+  age: 26
+---
+spring:
+  profile: prod
+student:
+  name: nina
+  gender: female
+  age: 24
