@@ -1,3 +1,6 @@
 user:
   name: michel
   age: 27
+spring:
+  profile:
+    active: dev
